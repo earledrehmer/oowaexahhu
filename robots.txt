@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oqueimaiy.codonfx.com/sitemap.xml
